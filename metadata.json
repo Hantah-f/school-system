@@ -1,0 +1,5 @@
+{
+  "name": "Copy of School Attendance System",
+  "description": "An elegant and efficient web application for tracking student attendance. Teachers can mark students as present, absent, or tardy, and view a real-time summary of the day's attendance records with visual charts.",
+  "requestFramePermissions": []
+}
